@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993275538846",
+    "firebase_url": "https://travelmap-c92be.firebaseio.com",
+    "project_id": "travelmap-c92be",
+    "storage_bucket": "travelmap-c92be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993275538846:android:9b25121a16fee6ff",
+        "android_client_info": {
+          "package_name": "hu.ait.travelmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993275538846-ojbfl4etlsq1j3l983d92tmmfrlbtmem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.travelmap",
+            "certificate_hash": "19c6c11b2bd0ef872e85eddb621fe150518c4bce"
+          }
+        },
+        {
+          "client_id": "993275538846-1cbsb0aqkk98bhivimopn1di0mk6uv6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nI7krFmebox-Q2hn8xiXnbtw8wplfOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993275538846-1cbsb0aqkk98bhivimopn1di0mk6uv6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
